@@ -62,9 +62,9 @@ All relationships use foreign keys to maintain integrity.
 📑 Testing the Schema
 To verify the structure of each table, I used commands like:
 
-sql
-Copy code
 DESCRIBE table_name;
+
+
 This helped me confirm the columns, data types, and keys were correct.
 
 🛠️ How to Use
